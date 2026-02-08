@@ -1,0 +1,9 @@
+LangChain4j is a Java library that simplifies building AI-powered applications. It provides easy integration with LLMs like OpenAI, Ollama, and Anthropic. It supports features like RAG, agents, and memory.
+
+RAG stands for Retrieval Augmented Generation. It combines a retrieval system with an LLM to answer questions using external knowledge. This helps the model give accurate answers from your own documents.
+
+Ollama is a tool to run LLMs locally on your computer. It supports models like Llama, Mistral, and CodeLlama. It provides an OpenAI-compatible API at localhost:11434.
+
+Java is a popular programming language used in enterprise applications. It is known for its platform independence and strong typing. Java 17 is the current LTS version widely used in production.
+
+Our company HERE AND NOW AI was founded in 2018  and specializes in AI training and consulting. We offer courses on LangChain4j, prompt engineering, and building AI agents. Contact us at info@hereandnowai.com or call us at +91-996-296-1000.
